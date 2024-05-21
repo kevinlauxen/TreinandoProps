@@ -1,0 +1,10 @@
+.task {
+  display: flex;
+  cursor: pointer;
+  font-style: initial;
+  color: aliceblue;
+}
+
+.completed {
+  text-decoration: line-through
+}
